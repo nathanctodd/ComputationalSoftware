@@ -5,7 +5,7 @@
 import os
 import csv
 from sys import argv
-
+import numpy as np
 
 def main():
     """Serve as main."""
